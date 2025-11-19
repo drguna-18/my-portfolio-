@@ -29,7 +29,7 @@ const About = () => {
         </div>
 
         <div className="hero-buttons">
-          <button className="btn btn-primary">
+          <button className="btn btn-primary" onClick={() => window.open('/GunaseelanD.pdf', '_blank')}>
             My Resume
           </button>
         </div>

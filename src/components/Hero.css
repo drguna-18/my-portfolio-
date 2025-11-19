@@ -109,6 +109,7 @@
 
   .hero-description {
     max-width: none;
+    text-align: justify;
   }
 }
 
@@ -130,5 +131,8 @@
   }
   .scroll-arrow{
     display: none;
+  }
+  .hero-description{
+    text-align: justify;
   }
 }

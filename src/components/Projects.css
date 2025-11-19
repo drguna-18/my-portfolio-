@@ -148,6 +148,7 @@
   font-size: 0.95rem;
 }
 
+
 .project-technologies {
   display: flex;
   flex-wrap: wrap;
@@ -204,7 +205,12 @@
     flex: 1;
     padding: 0.6rem 1rem;
   }
-  
+  .section-subtitle{
+    text-align: justify;
+  }
+  .project-description{
+    text-align: justify;
+  }
   .link-text {
     display: none;
   }
@@ -217,5 +223,11 @@
   
   .project-content {
     padding: 1.25rem;
+  }
+   .section-subtitle{
+    text-align: justify;
+  }
+   .project-description{
+    text-align: justify;
   }
 }

@@ -7,7 +7,7 @@ const Projects = () => {
       description: "Developed a single-window React-based platform that helps entrepreneurs obtain approvals from multiple government agencies efficiently.",
       technologies: ["React", "Express.js", "Firebase", "CSS3"],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/drguna-18/full-project.git",
       imageUrl: "https://tse3.mm.bing.net/th/id/OIP.rLfQFPBKmNpkIGlUIsG0YwHaFe?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
@@ -15,7 +15,7 @@ const Projects = () => {
       description: "Implemented a multi-search system allowing users to find products using text, image, and voice inputs, improving accessibility and convenience.",
       technologies: ["React", "Python", "MYSQL"],
       liveUrl: "#",
-      githubUrl: "#", 
+      githubUrl: "https://github.com/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend.git", 
       imageUrl: "src/assets/Generated Image November 09, 2025 - 5_27PM.png"
     },
     {
@@ -23,7 +23,7 @@ const Projects = () => {
       description: "A comprehensive food delivery platform with real-time order tracking, restaurant management, and personalized recommendations for users.",
       technologies: ["HTML", "CSS3", "JS", "Bootstrap"],
       liveUrl: "#",
-      githubUrl: "#git add README.md",
+      githubUrl: "https://github.com/drguna-18/Food-Fest.git",
       imageUrl: "src/assets/Generated Image November 09, 2025 - 5_39PM.png"
     },
     // {

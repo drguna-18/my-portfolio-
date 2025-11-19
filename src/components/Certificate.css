@@ -176,6 +176,9 @@
   .certificates-column {
     gap: 1.5rem;
   }
+  .certificate-description {
+    text-align: justify;
+  }
 }
 
 @media (max-width: 640px) {
@@ -194,5 +197,8 @@
   
   .certificate-title {
     font-size: 1.3rem;
+  }
+  .certificate-description {
+    text-align: justify;
   }
 }
